@@ -1,0 +1,54 @@
+.dash {
+  background-color: black;
+  padding-top: 13px;
+  padding-bottom: 2px;
+  width: 200px;
+  height: 190px;
+  border-radius: 14px;
+  box-shadow: inset 0px 0px 15px grey;
+  margin: 0 auto;
+}
+
+p {
+  font-family: times;
+  text-align: center;
+  font-size: 28px;
+  letter-spacing: 5px;
+  line-height: 50px;
+  padding: 40px 20px;
+  color: white;
+  height: 100px;
+  margin: 0 auto;
+}
+
+.bg p {
+  background-color: red;
+  border-radius: 140px;
+  width: 140px;
+  height: 100px;
+  box-shadow: inset 0px 0px 15px silver;
+  margin: 0px auto;
+  transition-duration: .5s;
+  transition-property: background, box-shadow, color;
+  transition-delay: 0s, .5s;
+  transition-timing-function: ease-in-out;
+}
+
+.bg p:hover {
+  background-color: green;
+  border-radius: 140px;
+  width: 140px;
+  height: 100px;
+  box-shadow: inset 0px 0px 15px silver;
+  margin: 0px auto;
+}
+
+.bg p:active {
+  background-color: green;
+  color: lightgreen;
+  border-radius: 140px;
+  width: 140px;
+  height: 100px;
+  box-shadow: inset 0px 0px 40px silver;
+  margin: 0px auto;
+}

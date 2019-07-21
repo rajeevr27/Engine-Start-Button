@@ -29,8 +29,8 @@ p {
   box-shadow: inset 0px 0px 15px silver;
   margin: 0px auto;
   transition-duration: .5s;
-  transition-property: background-color, box-shadow, color;
-  transition-delay: 0s, .5s;
+  transition-property: background-color, box-shadow, color, font-size;
+  transition-delay: 0s, .5s, .5s, .5s;
   transition-timing-function: ease-in-out;
 }
 

@@ -30,7 +30,7 @@ p {
   margin: 0px auto;
   transition-duration: .5s;
   transition-property: background-color, box-shadow, color, font-size;
-  transition-delay: 0s, .5s, .5s, .5s;
+  transition-delay: 0s, .3s, .3s, .3s;
   transition-timing-function: ease-in-out;
 }
 

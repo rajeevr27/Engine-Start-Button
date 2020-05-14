@@ -13,12 +13,10 @@ p {
   font-family: helvetica;
   text-align: center;
   font-size: 28px;
-  letter-spacing: 5px;
+  letter-spacing: 3px;
   line-height: 50px;
   padding: 40px 20px;
   color: white;
-  height: 100px;
-  margin: 0 auto;
 }
 
 .button p {

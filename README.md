@@ -2,8 +2,8 @@
 
 ## Screenshots
 
-<img src="enginestartbutton1.png">
+<img src="screenshots/enginestartbutton1.png">
 
-<img src="enginestartbutton2.png">
+<img src="screenshots/enginestartbutton2.png">
 
-<img src="enginestartbutton3.png">
+<img src="screenshots/enginestartbutton3.png">

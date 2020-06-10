@@ -1,7 +1,9 @@
-$(document).ready(function(){
-  const $audio = $("audio")[0];
+const audio = document.getElementsByTagName("audio")[0];
 
-  $(".dash .button").on("click","p", function() {
-    $audio.play();
-  });
+const active = document.querySelector(".dash p");
+
+active.addEventListener("click", function(){
+
+  audio.play();
+
 });

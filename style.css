@@ -7,6 +7,10 @@
   margin: 0 auto;
 }
 
+.button {
+  padding: 10px;
+}
+
 p {
   font-family: helvetica;
   text-align: center;

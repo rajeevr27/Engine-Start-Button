@@ -23,7 +23,6 @@ p {
   background-color: red;
   border-radius: 140px;
   width: 140px;
-  height: 100px;
   box-shadow: inset 0px 0px 15px silver;
   margin: 0px auto;
   transition-duration: .5s;

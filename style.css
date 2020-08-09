@@ -24,7 +24,7 @@ p {
   background-color: red;
   border-radius: 140px;
   box-shadow: inset 0px 0px 15px silver;
-  margin: 0px auto;
+  margin: 0;
   transition-duration: .5s;
   transition-property: background-color, box-shadow, color, font-size;
   transition-delay: 0s, .3s, .3s, .3s;

@@ -1,9 +1,7 @@
 .dash {
   background-color: black;
-  padding-top: 13px;
-  padding-bottom: 2px;
   width: 200px;
-  height: 190px;
+  height: 200px;
   border-radius: 14px;
   box-shadow: inset 0px 0px 15px grey;
   margin: 0 auto;

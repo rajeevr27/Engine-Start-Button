@@ -33,9 +33,6 @@ p {
 
 .button p:hover {
   background-color: green;
-  border-radius: 140px;
-  width: 140px;
-  height: 100px;
   box-shadow: inset 0px 0px 15px silver;
   margin: 0px auto;
 }
@@ -44,8 +41,5 @@ p {
   background-color: green;
   color: lightgreen;
   border-radius: 140px;
-  width: 140px;
-  height: 100px;
   box-shadow: inset 0px 0px 40px silver;
-  margin: 0px auto;
 }

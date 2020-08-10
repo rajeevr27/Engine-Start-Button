@@ -33,13 +33,10 @@ p {
 
 .button p:hover {
   background-color: green;
-  box-shadow: inset 0px 0px 15px silver;
-  margin: 0px auto;
 }
 
 .button p:active {
   background-color: green;
   color: lightgreen;
-  border-radius: 140px;
   box-shadow: inset 0px 0px 40px silver;
 }

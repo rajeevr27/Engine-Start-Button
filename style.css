@@ -3,7 +3,11 @@
   width: 200px;
   border-radius: 14px;
   box-shadow: inset 0px 0px 15px grey;
-  margin: 0 auto;
+  position: fixed;
+  top: 50%;
+  margin-top: -50px;
+  left: 50%;
+  margin-left: -100px;
 }
 
 .cta-button {

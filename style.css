@@ -33,6 +33,7 @@ p {
   transition-property: background-color, box-shadow, color, font-size;
   transition-delay: 0s, .3s, .3s, .3s;
   transition-timing-function: ease-in-out;
+  cursor: pointer;
 }
 
 .cta-button p:hover {

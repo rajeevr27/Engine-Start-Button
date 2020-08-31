@@ -8,12 +8,12 @@ This is my implementation of A Call to Action Button. The user is prompted to in
 
 Normal
 
-<img width="200" src="screenshots-button/enginestartbutton1.png">
+<img src="screenshots-button/normal.png">
 
 Hover
 
-<img width="200" src="screenshots-button/enginestartbutton2.png">
+<img src="screenshots-button/hover.png">
 
 Active
 
-<img width="200" src="screenshots-button/enginestartbutton3.png">
+<img src="screenshots-button/active.png">
